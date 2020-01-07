@@ -1,0 +1,72 @@
+footer hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+footer p {
+    color: rgba(93, 93, 93, 0.3);
+}
+
+.col-md-6 {
+    padding-top: 10px;
+}
+
+.navbar {
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 5px;
+}
+
+.nav-item {
+    padding-top: 6px;
+}
+
+.nav-item.active {
+    border-top: 6px solid #699A33;
+    padding-top: 0px;
+}
+
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+.nav-item {
+    font-size: 20px;
+}
+
+.border {
+    border-top: 12px solid #28774F;
+    border-bottom: 12px solid #28774F;
+}
+
+.btn-outline-success {
+    border-color: #699A33;
+    color: #699A33;
+}
+
+.btn-outline-success:hover {
+    border-color: #699A33;
+    background-color: #699A33;
+}
+.otsing {
+    padding-top: 6px;
+}
+
+.tekst {
+    font-family: 'Open Sans', sans-serif;
+    border-top: 12px solid #28774F;
+    padding-top: 5px;
+}
+
+.form-control {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn {
+    font-family: 'Open Sans', sans-serif;
+}
